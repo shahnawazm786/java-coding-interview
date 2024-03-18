@@ -1,4 +1,4 @@
-package com.coding;
+package com.coding.numbers;
 
 public class StrongNumberExample {
     public static void main(String[] args) {
