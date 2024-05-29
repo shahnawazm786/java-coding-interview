@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad63f7c9-f1f2-44ff-b15d-27dd829e6e7b" name="Changes" comment="java interview question">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/numbers/SwapNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/strings/CheckCharacterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/browsermobprox/BrowserMobProxyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/drivers/chrome/chromedriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +46,17 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/java-coding-interview/src/test/resources/drivers/chrome&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindLargestNumber">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\java-coding-interview\src\test\resources\drivers\chrome" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="FindLargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.coding.numbers.FindLargestNumber" />
       <module name="java-coding-interview" />
@@ -71,8 +83,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwapNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coding.numbers.SwapNumber" />
+      <module name="java-coding-interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coding.numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrowserMobProxyExample.generateHARFile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-coding-interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="browsermobprox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="browsermobprox" />
+      <option name="MAIN_CLASS_NAME" value="browsermobprox.BrowserMobProxyExample" />
+      <option name="METHOD_NAME" value="generateHARFile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrowserMobProxyExample.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-coding-interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="browsermobprox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="browsermobprox" />
+      <option name="MAIN_CLASS_NAME" value="browsermobprox.BrowserMobProxyExample" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.BrowserMobProxyExample.generateHARFile" />
+        <item itemvalue="TestNG.BrowserMobProxyExample.test" />
+        <item itemvalue="Application.SwapNumber" />
         <item itemvalue="Application.FindLargestNumber" />
         <item itemvalue="Application.StrongNumberExample" />
       </list>
@@ -192,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710762264225</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="java interview question">
+      <created>1710843319058</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710843319058</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
