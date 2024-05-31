@@ -16,6 +16,9 @@ public class CheckEvenNumberClass {
         if(number%2==0){
             System.out.println(number + "\t => is even");
         }
+        else {
+            System.out.println(number + "\t => is not even");
+        }
 
     }
 }
