@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad63f7c9-f1f2-44ff-b15d-27dd829e6e7b" name="Changes" comment="java interview question">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/numbers/CheckEvenNumberClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/numbers/CheckEvenNumberClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/numbers/CheckEvenNumberClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -357,7 +356,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717123997844</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="java interview question">
+      <created>1717124207428</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1717124207428</updated>
+    </task>
+    <task id="LOCAL-00032" summary="java interview question">
+      <created>1717124210763</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1717124210763</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
