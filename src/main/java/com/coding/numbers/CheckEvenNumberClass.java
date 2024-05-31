@@ -12,6 +12,10 @@ public class CheckEvenNumberClass {
         System.out.println(exp);
         System.out.println("Using if else operator");
         System.out.println("Please enter any number");
+        number=sc.nextInt();
+        if(number%2==0){
+            System.out.println(number + "\t => is even");
+        }
 
     }
 }
