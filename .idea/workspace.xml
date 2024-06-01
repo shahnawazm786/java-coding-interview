@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad63f7c9-f1f2-44ff-b15d-27dd829e6e7b" name="Changes" comment="java interview question">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/numbers/CheckGivenNumberIsOddClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/numbers/CheckGivenNumberIsOddClass.java" afterDir="false" />
-    </list>
+    <list default="true" id="ad63f7c9-f1f2-44ff-b15d-27dd829e6e7b" name="Changes" comment="java interview question" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,20 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710583124637</updated>
-    </task>
-    <task id="LOCAL-00002" summary="java interview question">
-      <created>1710658564478</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1710658564478</updated>
-    </task>
-    <task id="LOCAL-00003" summary="java interview question">
-      <created>1710658570017</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1710658570017</updated>
     </task>
     <task id="LOCAL-00004" summary="java interview question">
       <created>1710658575381</created>
@@ -490,7 +473,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717211385910</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="java interview question">
+      <created>1717219254978</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1717219254978</updated>
+    </task>
+    <task id="LOCAL-00052" summary="java interview question">
+      <created>1717219260375</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1717219260375</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
