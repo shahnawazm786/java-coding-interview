@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class CheckGivenNumberIsOddClass {
     public static void main(String[] args) {
         System.out.println("Using turnery operator");
+        abc();
         System.out.println("Please enter any number");
         Scanner sc=new Scanner(System.in);
         int number=sc.nextInt();
@@ -22,6 +23,9 @@ public class CheckGivenNumberIsOddClass {
         }
 
 
+    }
+    static void abc(){
+        System.out.println("Hello!!!!!!");
     }
 
 }
