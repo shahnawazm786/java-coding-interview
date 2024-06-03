@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad63f7c9-f1f2-44ff-b15d-27dd829e6e7b" name="Changes" comment="java interview question">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/numbers/SumOFGivenNumberClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/numbers/CheckGivenNumberIsOddClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/numbers/CheckGivenNumberIsOddClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,13 +146,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710583124637</updated>
-    </task>
-    <task id="LOCAL-00006" summary="java interview question">
-      <created>1710658587285</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1710658587285</updated>
     </task>
     <task id="LOCAL-00007" summary="java interview question">
       <created>1710658592251</created>
@@ -490,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1717231825925</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="java interview question">
+      <created>1717232869142</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1717232869142</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
