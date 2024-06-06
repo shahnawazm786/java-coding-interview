@@ -49,7 +49,7 @@
       <recent name="C:\java-coding-interview\src\test\resources\drivers\chrome" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.FindLargestNumber">
     <configuration name="FindLargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.coding.numbers.FindLargestNumber" />
       <module name="java-coding-interview" />
